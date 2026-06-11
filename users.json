@@ -1,14 +1,1 @@
-[
-  {
-    "id": 1,
-    "username": "admin",
-    "email": "admin@mail.com",
-    "role": "Admin"
-  },
-  {
-    "id": 2,
-    "username": "johndoe",
-    "email": "john@mail.com",
-    "role": "User"
-  }
-]
+
